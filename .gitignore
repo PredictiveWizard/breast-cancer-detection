@@ -1,0 +1,15 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Environment
+venv/
+.env
+
+# Model files
+model.pkl
+
+# IDEs and editors
+.vscode/
+.idea/
